@@ -25,9 +25,14 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/bootstrap-icons/font/bootstrap-icons.css"
             ],
-            "scripts": []
+            "scripts": [              
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -73,7 +78,7 @@
           "options": {
             "browserTarget": "products-app-ngrx:build"
           }
-        },
+        },  
         "test": {
           "builder": "@angular-devkit/build-angular:karma",
           "options": {
@@ -94,5 +99,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "971c9cf8-f074-47bc-b113-9e6f7dc1ef01"
   }
 }

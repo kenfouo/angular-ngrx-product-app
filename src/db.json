@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": "4300",
+      "quantity": "600",
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": "300",
+      "quantity": "100",
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "price": "1200",
+      "quantity": "100",
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "AnyRecover",
+      "price": 0,
+      "quantity": 0,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "recuve",
+      "price": 0,
+      "quantity": 0,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "Recoverit",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 6
+    },
+    {
+      "name": "Recuva®",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 7
+    },
+    {
+      "name": "tenorshare",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 8
+    },
+    {
+      "name": "tenorshare",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 9
+    }
+  ]
+}
